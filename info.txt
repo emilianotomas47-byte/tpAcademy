@@ -1,0 +1,3 @@
+the tp-dicsys project.
+This application is built using the NestJS framework, designed for efficient and scalable server-side development with Node.js.
+Currently, the project contains the initial boilerplate structure and configuration, ready for further development.
